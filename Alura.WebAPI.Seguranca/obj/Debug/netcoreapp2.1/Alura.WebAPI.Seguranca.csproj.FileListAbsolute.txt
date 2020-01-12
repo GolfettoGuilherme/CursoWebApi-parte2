@@ -1,0 +1,8 @@
+/Users/guilhermegolfetto/Desktop/study/Web Apis/Alura.WebAPI02/Alura.WebAPI.Seguranca/obj/Debug/netcoreapp2.1/Alura.WebAPI.Seguranca.csprojAssemblyReference.cache
+/Users/guilhermegolfetto/Desktop/study/Web Apis/Alura.WebAPI02/Alura.WebAPI.Seguranca/obj/Debug/netcoreapp2.1/Alura.WebAPI.Seguranca.AssemblyInfoInputs.cache
+/Users/guilhermegolfetto/Desktop/study/Web Apis/Alura.WebAPI02/Alura.WebAPI.Seguranca/obj/Debug/netcoreapp2.1/Alura.WebAPI.Seguranca.AssemblyInfo.cs
+/Users/guilhermegolfetto/Desktop/study/Web Apis/Alura.WebAPI02/Alura.WebAPI.Seguranca/bin/Debug/netcoreapp2.1/Alura.WebAPI.Seguranca.deps.json
+/Users/guilhermegolfetto/Desktop/study/Web Apis/Alura.WebAPI02/Alura.WebAPI.Seguranca/bin/Debug/netcoreapp2.1/Alura.WebAPI.Seguranca.dll
+/Users/guilhermegolfetto/Desktop/study/Web Apis/Alura.WebAPI02/Alura.WebAPI.Seguranca/bin/Debug/netcoreapp2.1/Alura.WebAPI.Seguranca.pdb
+/Users/guilhermegolfetto/Desktop/study/Web Apis/Alura.WebAPI02/Alura.WebAPI.Seguranca/obj/Debug/netcoreapp2.1/Alura.WebAPI.Seguranca.dll
+/Users/guilhermegolfetto/Desktop/study/Web Apis/Alura.WebAPI02/Alura.WebAPI.Seguranca/obj/Debug/netcoreapp2.1/Alura.WebAPI.Seguranca.pdb

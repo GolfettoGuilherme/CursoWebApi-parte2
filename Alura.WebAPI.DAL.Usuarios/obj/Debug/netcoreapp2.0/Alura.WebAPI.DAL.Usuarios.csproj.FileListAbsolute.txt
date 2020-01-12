@@ -1,0 +1,8 @@
+/Users/guilhermegolfetto/Desktop/study/Web Apis/Alura.WebAPI02/Alura.WebAPI.DAL.Usuarios/bin/Debug/netcoreapp2.0/Alura.WebAPI.DAL.Usuarios.deps.json
+/Users/guilhermegolfetto/Desktop/study/Web Apis/Alura.WebAPI02/Alura.WebAPI.DAL.Usuarios/bin/Debug/netcoreapp2.0/Alura.WebAPI.DAL.Usuarios.dll
+/Users/guilhermegolfetto/Desktop/study/Web Apis/Alura.WebAPI02/Alura.WebAPI.DAL.Usuarios/bin/Debug/netcoreapp2.0/Alura.WebAPI.DAL.Usuarios.pdb
+/Users/guilhermegolfetto/Desktop/study/Web Apis/Alura.WebAPI02/Alura.WebAPI.DAL.Usuarios/obj/Debug/netcoreapp2.0/Alura.WebAPI.DAL.Usuarios.AssemblyInfoInputs.cache
+/Users/guilhermegolfetto/Desktop/study/Web Apis/Alura.WebAPI02/Alura.WebAPI.DAL.Usuarios/obj/Debug/netcoreapp2.0/Alura.WebAPI.DAL.Usuarios.AssemblyInfo.cs
+/Users/guilhermegolfetto/Desktop/study/Web Apis/Alura.WebAPI02/Alura.WebAPI.DAL.Usuarios/obj/Debug/netcoreapp2.0/Alura.WebAPI.DAL.Usuarios.dll
+/Users/guilhermegolfetto/Desktop/study/Web Apis/Alura.WebAPI02/Alura.WebAPI.DAL.Usuarios/obj/Debug/netcoreapp2.0/Alura.WebAPI.DAL.Usuarios.pdb
+/Users/guilhermegolfetto/Desktop/study/Web Apis/Alura.WebAPI02/Alura.WebAPI.DAL.Usuarios/obj/Debug/netcoreapp2.0/Alura.WebAPI.DAL.Usuarios.csprojAssemblyReference.cache

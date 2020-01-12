@@ -1,0 +1,41 @@
+﻿<Properties StartupConfiguration="Multiple Projects">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Alura.WebAPI.WebApp/Startup.cs">
+    <Files>
+      <File FileName="Alura.WebAPI.WebApp/Startup.cs" Line="24" Column="13" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Alura.WebAPI" expanded="True" selected="True">
+            <Node name="0-Common" expanded="True" />
+            <Node name="1-Services" expanded="True">
+              <Node name="Alura.WebAPI.Api" expanded="True" />
+            </Node>
+            <Node name="2-Apps" expanded="True">
+              <Node name="Alura.WebAPI.WebApp" expanded="True">
+                <Node name="Dependencies" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.1-Services.Alura.WebAPI.AuthProvider PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.2-Apps.Alura.WebAPI.WebApp PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations>
+    <MultiItemSolutionRunConfiguration Id="Multiple Projects" Name="Multiple Projects">
+      <Items>
+        <StartupItem ItemId="{CC529496-D095-427A-86CC-0D4EF0F48729}" ItemName="Alura.WebAPI.Api" ConfigurationId="Default" />
+        <StartupItem ItemId="{2F69831F-9016-49C4-8B11-C03637ED18F5}" ItemName="Alura.WebAPI.AuthProvider" ConfigurationId="Default" />
+        <StartupItem ItemId="{3EA2D4E0-1B65-4B65-8A66-1EEAE9063F81}" ItemName="Alura.WebAPI.WebApp" ConfigurationId="Default" />
+      </Items>
+    </MultiItemSolutionRunConfiguration>
+  </MultiItemStartupConfigurations>
+  <MonoDevelop.Ide.ItemProperties.1-Services.Alura.WebAPI.Api PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>
